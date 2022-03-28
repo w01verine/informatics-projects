@@ -1,0 +1,13 @@
+[
+        { "Name":"Gerald Emerick",
+        "Email": "geraldemerick@ferris.edu",
+        "Office": "IRC 212L" },
+        
+        { "Name":"Jim Furstenberg",
+        "Email": "jimfurstenberg@ferris.edu",
+        "Office": "IRC 212J" },
+        
+        { "Name":"Greg Gogolin",
+        "Email": "gogoling@ferris.edu",
+        "Office": "IRC 212K" }
+]
